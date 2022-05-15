@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Hi, I'm Nliver!, a passionate self-taught Full Stack Web Developer 🚀 from China.
+Hi, I'm Nliver!, a passionate self-taught Full Stack Web Developer and **Developer Advocate** 🚀 from China.
 
 - 🔭 I’m currently working on something cool 😉;
 - 🌱 I’m currently learning Javascript & Typescript & Dart;
-- 💾 I’m currently studying knowledge about database and machine learning;
-- ✨ I’m an open source enthusiast and active in many open source community organizations；
+- 💾 I’m currently studying knowledge about **Database** and **Machine Learning**;
+- ✨ I’m an open source enthusiast and active in many **open source** community organizations；
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: tinerist#outlook.com 
 
