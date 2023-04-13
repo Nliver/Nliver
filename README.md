@@ -9,5 +9,6 @@ Hi, I'm Nliver!, a passionate self-taught Full Stack Web Developer and **Develop
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: tinerist#outlook.com 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nliver&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nliver&theme=vue-dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nliver)
