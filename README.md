@@ -29,6 +29,11 @@ Hi, I'm Nliver!, a passionate self-taught Full Stack Web Developer and **Develop
 
 <br>
 
+### 🎖 Dynamic medals
+
+<img src="https://github-profile-trophy.vercel.app/?username=nliver&theme=flat&column=9&margin-w=10" alt="logo" height="160" align="center" />
+
+<br>
 
 ### 📊 Github Stats
 
