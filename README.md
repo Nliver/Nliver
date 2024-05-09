@@ -11,9 +11,22 @@ Hi, I'm Nliver!, a passionate self-taught Full Stack Web Developer and **Develop
 
 <br>
 
+### 🎖 Dynamic medals
+
+<img src="https://github-profile-trophy.vercel.app/?username=nliver&theme=flat&column=9&margin-w=10" alt="logo" height="160" align="center" />
+
+### 📊 Github Stats
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/nliver/github-stats-transparent@output/generated/overview.svg">
+  <img src="https://cdn.jsdelivr.net/gh/nliver/github-stats-transparent@output/generated/languages.svg">
+</p>
+
+<br>
+
 ### 🔨 Languages and Tools: 
 <a href="https://www.mysql.com/" target="_blank"> <img align="left" src="https://api.iconify.design/devicon:mysql-wordmark.svg" alt="mysql" height="42px"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://api.iconify.design/devicon:javascript.svg"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://api.iconify.design/devicon:javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://api.iconify.design/devicon:typescript.svg"></a>
 <a href="https://cplusplus.com/" target="_blank"><img align="left" alt="c++" height ="42px" src="https://api.iconify.design/devicon:cplusplus.svg"></a>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="vue" height ="42px" src="https://api.iconify.design/devicon:vuejs.svg"></a>
@@ -26,17 +39,3 @@ Hi, I'm Nliver!, a passionate self-taught Full Stack Web Developer and **Develop
 <a href="https://git-scm.com/" target="_blank"> <img src="https://api.iconify.design/devicon:git.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://api.iconify.design/devicon:figma.svg" alt="figma" height='42px'/> </a>
 
----
-
-### 🎖 Dynamic medals
-
-<img src="https://github-profile-trophy.vercel.app/?username=nliver&theme=flat&column=9&margin-w=10" alt="logo" height="160" align="center" />
-
-<br>
-
-### 📊 Github Stats
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/nliver/github-stats-transparent@output/generated/overview.svg">
-  <img src="https://cdn.jsdelivr.net/gh/nliver/github-stats-transparent@output/generated/languages.svg">
-</p>
