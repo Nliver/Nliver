@@ -9,7 +9,6 @@ Hi, I'm Nliver!, a passionate self-taught Full Stack Web Developer and **Develop
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: tinerist#outlook.com
 
-
 <br>
 
 ### 🔨 Languages and Tools: 
@@ -27,7 +26,7 @@ Hi, I'm Nliver!, a passionate self-taught Full Stack Web Developer and **Develop
 <a href="https://git-scm.com/" target="_blank"> <img src="https://api.iconify.design/devicon:git.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://api.iconify.design/devicon:figma.svg" alt="figma" height='42px'/> </a>
 
-<br>
+---
 
 ### 🎖 Dynamic medals
 
@@ -41,5 +40,3 @@ Hi, I'm Nliver!, a passionate self-taught Full Stack Web Developer and **Develop
   <img src="https://cdn.jsdelivr.net/gh/nliver/github-stats-transparent@output/generated/overview.svg">
   <img src="https://cdn.jsdelivr.net/gh/nliver/github-stats-transparent@output/generated/languages.svg">
 </p>
-
-
