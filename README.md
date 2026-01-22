@@ -19,8 +19,8 @@ Hi, I'm Nliver!, a passionate self-taught Full Stack Web Developer and **Develop
 ### 📊 Github Stats
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/nliver/github-stats-transparent@output/generated/overview.svg">
-  <img src="https://cdn.jsdelivr.net/gh/nliver/github-stats-transparent@output/generated/languages.svg">
+  <img src="https://raw.githubusercontent.com/nliver/github-stats-transparent/output/generated/overview.svg">
+  <img src="https://raw.githubusercontent.com/nliver/github-stats-transparent/output/generated/languages.svg">
 </p>
 
 <br>
